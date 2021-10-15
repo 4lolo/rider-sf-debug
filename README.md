@@ -8,3 +8,4 @@
 4. Restart Rider
 5. Create new Run/Debug configuration like this:
 ![Rider Configuration](/docs/RiderConfiguration.png?raw=true "Rider Configuration")
+6. Enjoy
